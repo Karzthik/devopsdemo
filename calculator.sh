@@ -1,5 +1,6 @@
 #!/bin/bash
 #Addition of numbers
 
-x=a+b
+x=a+b+c
+
 
